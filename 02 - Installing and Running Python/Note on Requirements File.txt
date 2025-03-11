@@ -1,7 +1,7 @@
 Note on Requirements File
 =========================
 
-Note that I have purposely omitted including numpy, pandas, matplotlib and mplfinance in the downloadable version of the `reuirements.txt` file.
+Note that I have purposely omitted including numpy, pandas, matplotlib and mplfinance in the downloadable version of the `requirements.txt` file.
 
 This is due to numerous issues encountered (primarily by Windows users) when installing numpy.
 
